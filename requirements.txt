@@ -1,0 +1,12 @@
+jupyter
+jupyterlab
+nltk
+numpy
+scipy
+matplotlib
+ipython
+pandas
+scikit-learn
+requests
+pyenchant
+elasticsearch
